@@ -1,8 +1,8 @@
 # churn_bank_clients
 
 ## Материалы проекта:
-* [презентация] (https://drive.google.com/file/d/1rHfE-IQNUDDdhn_tL3OAagSYe6FuRTsU/view?usp=sharing)  
-* [дашборд] (https://public.tableau.com/app/profile/margarita8370/viz/Analizofbanksklients/Dashboard1#1)
+* [презентация](https://drive.google.com/file/d/1rHfE-IQNUDDdhn_tL3OAagSYe6FuRTsU/view?usp=sharing)  
+* [дашборд](https://public.tableau.com/app/profile/margarita8370/viz/Analizofbanksklients/Dashboard1#1)
 
 ## Данные
 -------------------
